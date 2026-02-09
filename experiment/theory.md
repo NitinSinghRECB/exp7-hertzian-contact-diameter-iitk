@@ -1,6 +1,3 @@
-# Objective
-To estimate the mean and maximum Hertzian contact pressures developed during nanoindentation by determining the contact radius and contact area from load–displacement data, and to understand how localized stresses influence elastic deformation, yielding, and wear initiation.
-
 # Introduction
 When a hard indenter presses into a material surface, the applied load is transmitted through an extremely small contact area. This produces very high localized stresses, often reaching several gigapascals even at small loads. Before plastic deformation begins, the contact response follows classical Hertzian elastic contact mechanics.
 
@@ -108,11 +105,3 @@ Materials with higher hardness and modulus sustain lower deformation for the sam
 
 ---
 
-# Essential Experimental Setup (Critical Components Only)
-• Instrumented nanoindenter (µN–mN load control)  
-• Spherical/rounded diamond tip of known radius R  
-• Load actuator  
-• Depth sensor (nm resolution)  
-• Rigid sample stage  
-• Data acquisition system  
-• Polished flat specimen  
